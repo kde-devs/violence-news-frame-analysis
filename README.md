@@ -4,7 +4,7 @@ Analysis of frames in violence-related news articles
 # Violence News Frame Analysis
 
 ## 프로젝트 개요
-본 프로젝트는 뉴스 기사에서 **폭력 사건 관련 보도**가 어떤 **프레임(Frame)**을 갖는지 분석하는 것을 목표로 합니다.  
+본 프로젝트는 뉴스 기사에서 **폭력 사건 관련 보도**가 어떤 프레임(Frame)을 갖는지 분석하는 것을 목표로 합니다.  
 이를 통해 언론의 보도 경향과 사회적 편향을 이해하고 시각화합니다.
 
 ## 데이터
