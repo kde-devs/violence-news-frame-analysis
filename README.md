@@ -1,11 +1,19 @@
 # violence-news-frame-analysis
 Analysis of frames in violence-related news articles
 
-# Violence News Frame Analysis
+---
 
-## 프로젝트 개요
+## 팀 정보
+- **팀장**: [금다은](https://github.com/kde-devs)
+- **팀원**: [허다인](https://github.com/dainheo), [윤하늘](https://github.com/gksmfoi)
+
+---
+
+## 프로젝트 배경
+> 이 프로젝트는 2025년도 2학기 데이터사이언스 전공 수업인 ‘텍스트 데이터 분석’을 기반으로 시작되었습니다.  
 본 프로젝트는 뉴스 기사에서 **폭력 사건 관련 보도**가 어떤 프레임(Frame)을 갖는지 분석하는 것을 목표로 합니다.  
 이를 통해 언론의 보도 경향과 사회적 편향을 이해하고 시각화합니다.
+---
 
 ## 데이터
 - **수집 대상**: 국내외 뉴스 기사 (폭력 관련)
